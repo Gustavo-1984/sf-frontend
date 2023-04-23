@@ -24,7 +24,7 @@
     "sweetalert2": "^11.7.1",
     "xlsx": "https://cdn.sheetjs.com/xlsx-0.19.1/xlsx-0.19.1.tgz",
     "yup": "^0.32.11",
-    "zustand": "^4.3.1"
+    "zustand": "^4.3.7"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
